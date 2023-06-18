@@ -1,6 +1,6 @@
-# idlemancery-help-script
+# web_game_scripts
 
-- Auto click button in action tab for you
+- Automate some html base web games
 
 ### Installation
 
